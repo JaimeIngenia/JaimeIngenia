@@ -1,31 +1,25 @@
 name: Generate Snake Animation
 
 on:
-  schedule:
-    # Ejecuta esta acción todos los días a las 00:00 UTC
-    - cron: "0 0 * * *"
-  workflow_dispatch: # Permite ejecutarlo manualmente desde GitHub
+  workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
+
     steps:
-      # Configura el repositorio
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # Genera la animación de la serpiente
-      - name: Generate Snake
+      - name: Generate snake animation
         uses: Platane/snk@v2
         with:
-          github_user_name: JaimeIngenia
+          github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg
-          outputs_dark: dist/snake-dark.svg
 
-      # Sube los archivos generados a la rama output
-      - name: Push generated snake
-        uses: peaceiris/actions-gh-pages@v3
+      - name: Push the generated snake animation to the output branch
+        uses: github-actions-x/commit@v4
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: dist
-          publish_branch: output
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          files: dist/snake.svg
