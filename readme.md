@@ -59,6 +59,22 @@
 <br/>
 <hr/>
 
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JaimeIngenia/JaimeIngenia/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JaimeIngenia/JaimeIngenia/output/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/JaimeIngenia/JaimeIngenia/output/github-contribution-grid-snake.svg" />
+  </picture>
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
 <h2 align="center">🚀 Projects 🚀</h2>
 <ul>
   <li>🌟 <strong>Interactive Resume Generator:</strong> A web app to automate CV creation, built with React and TypeScript. <a href="https://github.com/jaime-moncayo/resume-generator">Check it out here</a>.</li>
