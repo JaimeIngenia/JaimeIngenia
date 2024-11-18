@@ -40,8 +40,8 @@
 <h2 align="center">⚒️ Skills & Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,html,css,bootstrap,tailwind,git,github,nodejs,python,csharp,mysql,postgresql" />
-    <img src="https://skillicons.dev/icons?i=powerbi,tableau,vscode,azure,figma,java,flask,express,sql" />
+    <img src="https://skillicons.dev/icons?i=react,redux,typescript,javascript,html,css,bootstrap,tailwind,git,github,nodejs,python,mysql,postgresql,azure" />
+    <img src="https://skillicons.dev/icons?i=powerbi,vscode,figma,java,sql" />
 </div>
 
 <br/>
