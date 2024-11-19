@@ -113,30 +113,33 @@
 
 </div> -->
 
-<div align="center">
+ <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  
+
   <!-- Light mode snake -->
-  <picture>
-    <source
-      srcset="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"
-      media="(prefers-color-scheme: light)"
-    />
-    <!-- Dark mode snake -->
-    <source
-      srcset="https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake-dark.svg"
-      media="(prefers-color-scheme: dark)"
-    />
-    <!-- Default snake (light mode) -->
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
+
+<img
+    alt="github contribution grid snake animation (light mode)"
+    src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"
+    style="display: none;"
+    id="light-mode-snake"
+  />
+
+  <!-- Dark mode snake -->
+
+<img
+    alt="github contribution grid snake animation (dark mode)"
+    src="https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake-dark.svg"
+    style="display: none;"
+    id="dark-mode-snake"
+  />
 
 <br/><br/><br/>
 
+  <p>Please choose your preferred mode:</p>
+  <button onclick="document.getElementById('light-mode-snake').style.display='block'; document.getElementById('dark-mode-snake').style.display='none';">Light Mode</button>
+  <button onclick="document.getElementById('dark-mode-snake').style.display='block'; document.getElementById('light-mode-snake').style.display='none';">Dark Mode</button>
 </div>
 
 <hr/>
