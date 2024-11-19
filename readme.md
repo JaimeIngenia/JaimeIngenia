@@ -135,23 +135,20 @@
     id="dark-mode-snake"
   />
 
-<br/><br/><br/>
+<br/><br/>
 
-  <p>Please choose your preferred mode:</p>
-  <button onclick="document.getElementById('light-mode-snake').style.display='block'; document.getElementById('dark-mode-snake').style.display='none';">Light Mode</button>
-  <button onclick="document.getElementById('dark-mode-snake').style.display='block'; document.getElementById('light-mode-snake').style.display='none';">Dark Mode</button>
 </div>
 
 <hr/>
 
-<h2 align="center">🚀 Projects 🚀</h2>
+<!-- <h2 align="center">🚀 Projects 🚀</h2>
 <ul>
   <li>🌟 <strong>Interactive Resume Generator:</strong> A web app to automate CV creation, built with React and TypeScript. <a href="https://github.com/jaime-moncayo/resume-generator">Check it out here</a>.</li>
   <li>📊 <strong>Data Insights Dashboard:</strong> Power BI dashboards built for business intelligence. <a href="https://github.com/jaime-moncayo/data-insights">View repository</a>.</li>
 </ul>
 
 <br/>
-<hr/>
+<hr/> -->
 
 <h2 align="center">🌟 About Me 🌟</h2>
 <br/>
