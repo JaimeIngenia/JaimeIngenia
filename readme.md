@@ -59,10 +59,19 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div> -->
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  
+  ![Snake animation](https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake.svg)
+  
   <br/><br/><br/>
 </div>
 
