@@ -71,7 +71,7 @@
 <br/>
 <hr/>
 
-<div align="center">
+<!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
@@ -79,7 +79,7 @@
 
 <br/><br/><br/>
 
-</div>
+</div> -->
 
 <!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -113,25 +113,25 @@
 
 </div> -->
 
-<!-- <div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/JaimeIngenia/JaimeIngenia/main/dist/github-contribution-grid-snake-dark.svg"
+      srcset="https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/JaimeIngenia/JaimeIngenia/main/dist/github-contribution-grid-snake.svg"
+      srcset="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"
     />
-    <img
-      alt="github contribution grid snake animation"
-      src="https://raw.githubusercontent.com/JaimeIngenia/JaimeIngenia/main/dist/github-contribution-grid-snake.svg"
+    <img 
+      alt="snake eating my contributions"
+      src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg"
     />
   </picture>
   <br/><br/><br/>
-</div> -->
+</div>
 
 <hr/>
 
