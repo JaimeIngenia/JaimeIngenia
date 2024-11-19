@@ -70,7 +70,7 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-  ![Snake animation](https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake-dark.svg)
   
   <br/><br/><br/>
 </div>
