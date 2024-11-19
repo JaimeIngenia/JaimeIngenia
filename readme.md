@@ -18,7 +18,7 @@
 
 ⚡ **Fun fact:** I enjoy turning data into insights and code into solutions!
 
-📧 **Connect with me:** [Email Me!](mailto:jaime.moncayo@gmail.com)
+📧 **Connect with me:**
 
 <div align="center"> 
   <a href="mailto:jamoncayop@unal.edu.co">
@@ -62,7 +62,9 @@
 <!-- <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake.svg" />
+
+  ![Snake animation](https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake-dark.svg)
+
   <br/><br/><br/>
 </div> -->
 
@@ -70,9 +72,23 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   
-  ![Snake animation](https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake-dark.svg)
-  
-  <br/><br/><br/>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake-light.svg"
+    />
+    <img
+      alt="github contribution grid snake animation"
+      src="https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+
+<br/><br/><br/>
+
 </div>
 
 <hr/>
