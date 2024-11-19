@@ -60,7 +60,7 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 My Contributions je!🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="![Snake animation](https://github.com/JaimeIngenia/JaimeIngenia/blob/output/github-contribution-grid-snake.svg)" />
   <br/><br/><br/>
