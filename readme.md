@@ -74,7 +74,7 @@
 <div align="center">
   <h2>📊 My GitHub Stats 📊</h2>
   <br>
-  <img width=390 src="https://streak-stats.demolab.com?user=JaimeIngenia&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=JaimeIngenia&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <!-- <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JaimeIngenia&layout=compact&theme=react&border_radius=10&hide=jupyter%20notebook,css,makefile&langs_count=8&exclude_repo=your-excluded-repo" alt="top langs" /> -->
