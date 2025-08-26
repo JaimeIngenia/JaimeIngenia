@@ -4,19 +4,30 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jaime+Moncayo!;" />
 </h1>
 
-<h3 align="center">A passionate Full Stack Developer and Data Analyst from Colombia 🌎</h3>
+<h3 align="center">💻 Data Science Enthusiast | Full-Stack Developer | Lifelong Learner 🌎</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 **Currently working on:** Improving my full-stack development skills and building impactful projects.
+ 🔭 **Currently working on:**  
+   - Data analytics and machine learning projects (IMSS, Infonavit).  
+   - Building scalable tools for social media data extraction and analysis.  
+   - Preparing tech training sessions for teams and students.  
 
-🌱 **Learning:** Docker, Supabase, and enhancing my backend expertise with Node.js and C#.
+🌱 **Learning:**  
+   - Advanced statistics for Data Science  
+   - Web scraping (Requests, BeautifulSoup, automation)  
+   - Docker, cloud deployments, and backend optimization  
 
-💬 **Ask me about:** Frontend Development with React, Data Analysis, or Backend Basics.
+💬 **Ask me about:**  
+   - Data analysis with Python (Pandas, Numpy, Matplotlib)  
+   - SQL, PostgreSQL, and database optimization  
+   - Full-stack fundamentals with React, Node.js, and API integration  
 
-⚡ **Fun fact:** I enjoy turning data into insights and code into solutions!
+⚡ **Fun fact:**  
+   I’m passionate about transforming raw data into meaningful stories,  
+   and I enjoy building clean, functional, and impactful solutions.  
 
 📧 **Connect with me:**
 
@@ -25,14 +36,18 @@
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/jaimemoncayo-data-engineer/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://unrivaled-cupcake-dfc9de.netlify.app" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
   </a>
 </div>
 
 </div>
+ 
+<br/>
+<hr/>
+
  
 <br/>
 <hr/>
